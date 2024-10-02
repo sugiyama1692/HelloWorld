@@ -10,9 +10,9 @@
 		00D94B4F2CAC3D9B006936D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D94B4E2CAC3D9B006936D1 /* AppDelegate.swift */; };
 		00D94B512CAC3D9B006936D1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D94B502CAC3D9B006936D1 /* SceneDelegate.swift */; };
 		00D94B532CAC3D9B006936D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D94B522CAC3D9B006936D1 /* ViewController.swift */; };
-		00D94B562CAC3D9B006936D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00D94B542CAC3D9B006936D1 /* Main.storyboard */; };
 		00D94B582CAC3D9C006936D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00D94B572CAC3D9C006936D1 /* Assets.xcassets */; };
 		00D94B5B2CAC3D9C006936D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00D94B592CAC3D9C006936D1 /* LaunchScreen.storyboard */; };
+		00D94B632CACECF6006936D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00D94B542CAC3D9B006936D1 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -125,9 +125,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00D94B632CACECF6006936D1 /* Main.storyboard in Resources */,
 				00D94B5B2CAC3D9C006936D1 /* LaunchScreen.storyboard in Resources */,
 				00D94B582CAC3D9C006936D1 /* Assets.xcassets in Resources */,
-				00D94B562CAC3D9B006936D1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +292,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = T6CG9GLTN3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -319,6 +320,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = T6CG9GLTN3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
